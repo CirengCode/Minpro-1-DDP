@@ -5,7 +5,7 @@ Regina Jelita Ningsih
 <br> Program ini dibuat untuk membantu pengguna mencatat dan memantau aktivitas membaca buku, agar pengguna bisa mengetahui sudah sejauh mana pengguna membaca buku. Program ini dibuat dengan menggunakan bahasa pemrograman python dengan menerapkan sistem CRUD. Selanjutnya, akan saya jelaskan fitur-fitur yang ada di program ini.
 
 # 1. Home Page
-> Berikut ini merupakan tampilan awal dari program saat dijalankan. Pada home page terdapat list data-data buku yang telah tersimpan, mulai dari judul buku, penulis, genre, status buku (sudah selesai dibaca atau belum), dan yang terakhir ada halaman terakhir yang dibaca. Pada home page juga terdapat beberapa menu pilihan yang dapat digunakan pengguna sesuai dengan kebutuh pengguna. Terdapat 3 menu utama, yaitu New Book, Update tracker, dan Delete book.
+> Berikut ini merupakan tampilan awal dari program saat dijalankan. Pada home page terdapat list data-data buku yang telah tersimpan, mulai dari judul buku, penulis, genre, status buku (sudah selesai dibaca atau belum), dan yang terakhir ada halaman terakhir yang dibaca. Pada home page juga terdapat beberapa menu pilihan yang dapat digunakan pengguna sesuai dengan kebutuhan pengguna. Terdapat 3 menu utama, yaitu New Book, Update tracker, dan Delete book.
 <img width="1477" height="521" alt="image" src="https://github.com/user-attachments/assets/ea918ead-b6e4-4085-a01e-451884ed343a" />
 
 # 2. Menu New Book
