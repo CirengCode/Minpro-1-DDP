@@ -250,4 +250,4 @@ else:https://docs.github.com/github/writing-on-github/getting-started-with-writi
 ```
 
 # FLOWCHART
-![MINPRO-1-REGINA drawio (3)](https://github.com/user-attachments/assets/fadcb481-23ae-4ffa-804e-cc5580dd8e54)
+![MINPRO-1-REGINA drawio (4)](https://github.com/user-attachments/assets/aa6aa880-c43a-40f7-8d69-ea97288fe131)
