@@ -234,3 +234,4 @@ else:
         print("-" * 159)
 ```
 # FLOWCHART
+![Uploading MINPRO-1-REGINA.drawio (3).svg…]()
