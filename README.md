@@ -20,6 +20,21 @@ Regina Jelita Ningsih
 > Seperti namanya, menu ini berfungsi untuk menghapus data buku yang terdapat dalam list buku. Pengguna hanya perlu memasukan nomor urut kolom dari data buku yang ingin di hapus dan data-data buku tersebut akan langsung terhapus.
 <img width="1479" height="420" alt="image" src="https://github.com/user-attachments/assets/84260592-72b8-48a1-a273-6a16006b7944" />
 
+# 5. Kondisi lainnya
+> Tampilan jika pengguna pada menu utam menginput selain 1-3
+<img width="1468" height="565" alt="image" src="https://github.com/user-attachments/assets/c600a6f6-74a6-4d8e-bbd0-deff7ff4c527" />
+
+> Tampilan jika pengguna pada exit menginput selain "x"
+<img width="1484" height="853" alt="image" src="https://github.com/user-attachments/assets/90d535f0-443e-42bb-af94-0d421ba10546" />
+
+> Tampilan jika pengguna pada menu update tracker menginput judul yang tidak ada pada list data
+<img width="1486" height="586" alt="image" src="https://github.com/user-attachments/assets/9cd39e43-52b1-4253-806e-4317f923a678" />
+
+> Tampilan jika pengguna pada menu delete book menginput nomor urut kolom yang tidak valid
+<img width="1487" height="599" alt="image" src="https://github.com/user-attachments/assets/5647b9ff-69fe-45c3-9ad1-2b04f6ca6858" />
+
+
+
 # Penjelesan Program
 > List data buku:
 <br> Variabel dengan nama book_data berisi tuple-tuple yang fungsinya sebagai sumber data awal agar pada programnya sudah tersedia beberapa data bukunya. Setiap tuple menyimpan data-data buku berupa judul, penulis, genre, status, dan halaman terakhir yang dibaca.
@@ -229,9 +244,10 @@ elif menu == "3":
 > Akhir Cabang:
 <br> kode dibawah ini akan menampilkan pesan error jika pada menu utama menginput selain 1-3.
 ```
-else:
+else:https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
         print("Error :(")
         print("-" * 159)
 ```
+
 # FLOWCHART
-![Uploading MINPRO-1-REGINA.drawio (3).svg…]()
+![MINPRO-1-REGINA drawio (3)](https://github.com/user-attachments/assets/fadcb481-23ae-4ffa-804e-cc5580dd8e54)
