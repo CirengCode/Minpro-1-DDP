@@ -1,2 +1,3 @@
 # Minpro-1-DDP
-Regina Jelita Ningsih (2509116061)
+Regina Jelita Ningsih 
+(2509116061)
